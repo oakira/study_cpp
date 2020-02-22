@@ -1,2 +1,2 @@
-# study_c-
+# study_cpp
 c++勉強用
