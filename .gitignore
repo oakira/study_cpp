@@ -1,4 +1,5 @@
 .vscode-janus-debug
 *.out
 *.out.dSYM
+*.dSYM
 .DS_Store
