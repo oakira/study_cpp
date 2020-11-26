@@ -2,4 +2,11 @@
 *.out
 *.out.dSYM
 *.dSYM
+*.exe
 .DS_Store
+.vs
+.vscode
+Debug
+*.sln
+*.vcxproj
+*.vcxproj.*
